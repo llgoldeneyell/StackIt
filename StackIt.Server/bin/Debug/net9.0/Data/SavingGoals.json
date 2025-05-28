@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 4,
+    "Label": "Seconda Fattura Cortile",
+    "Amount": 9350,
+    "DueMonth": "2025-08-01",
+    "Progression": 0
+  },
+  {
+    "Id": 5,
+    "Label": "Terza Fattura Cortile",
+    "Amount": 9350,
+    "DueMonth": "2025-12-01",
+    "Progression": 0
+  }
+]

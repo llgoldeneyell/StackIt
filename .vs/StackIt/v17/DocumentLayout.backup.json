@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\public\\locales\\en\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\public\\locales\\en\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\public\\locales\\it\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\public\\locales\\it\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\src\\components\\monthlybalance.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\src\\components\\monthlybalance.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\controllers\\monthlybalancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\controllers\\monthlybalancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\controllers\\savinggoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\controllers\\savinggoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\src\\components\\savinggoals.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\src\\components\\savinggoals.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\src\\components\\goalprogress.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\src\\components\\goalprogress.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\controllers\\goalprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\controllers\\goalprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\data\\monthlybalances.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\data\\monthlybalances.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC345FB1-6AF3-A4EA-F1D9-F64E2309ACA0}|stackit.client\\stackit.client.esproj|solutionrelative:stackit.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\models\\monthlybalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\models\\monthlybalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\helpers\\jsonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\helpers\\jsonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|c:\\users\\itfolloniri\\source\\repos\\stackit\\stackit.server\\grafica.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C45F19AF-AE9B-4D0B-9031-595D7F66B681}|StackIt.Server\\StackIt.Server.csproj|solutionrelative:stackit.server\\grafica.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonthlyBalancesController.cs",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Controllers\\MonthlyBalancesController.cs",
+              "RelativeDocumentMoniker": "StackIt.Server\\Controllers\\MonthlyBalancesController.cs",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Controllers\\MonthlyBalancesController.cs",
+              "RelativeToolTip": "StackIt.Server\\Controllers\\MonthlyBalancesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:46:11.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingGoalsController.cs",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Controllers\\SavingGoalsController.cs",
+              "RelativeDocumentMoniker": "StackIt.Server\\Controllers\\SavingGoalsController.cs",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Controllers\\SavingGoalsController.cs",
+              "RelativeToolTip": "StackIt.Server\\Controllers\\SavingGoalsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:53:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "stackit.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\vite.config.ts",
+              "RelativeToolTip": "stackit.client\\vite.config.ts",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T13:57:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonthlyBalance.tsx",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\components\\MonthlyBalance.tsx",
+              "RelativeDocumentMoniker": "stackit.client\\src\\components\\MonthlyBalance.tsx",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\components\\MonthlyBalance.tsx",
+              "RelativeToolTip": "stackit.client\\src\\components\\MonthlyBalance.tsx",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T13:44:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "stackit.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\App.tsx",
+              "RelativeToolTip": "stackit.client\\src\\App.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T13:58:19.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingGoals.tsx",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\components\\SavingGoals.tsx",
+              "RelativeDocumentMoniker": "stackit.client\\src\\components\\SavingGoals.tsx",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\components\\SavingGoals.tsx",
+              "RelativeToolTip": "stackit.client\\src\\components\\SavingGoals.tsx",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-21T13:59:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoalProgressController.cs",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Controllers\\GoalProgressController.cs",
+              "RelativeDocumentMoniker": "StackIt.Server\\Controllers\\GoalProgressController.cs",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Controllers\\GoalProgressController.cs",
+              "RelativeToolTip": "StackIt.Server\\Controllers\\GoalProgressController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "translation.json",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\public\\locales\\en\\translation.json",
+              "RelativeDocumentMoniker": "stackit.client\\public\\locales\\en\\translation.json",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\public\\locales\\en\\translation.json*",
+              "RelativeToolTip": "stackit.client\\public\\locales\\en\\translation.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T07:07:14.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "translation.json",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\public\\locales\\it\\translation.json",
+              "RelativeDocumentMoniker": "stackit.client\\public\\locales\\it\\translation.json",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\public\\locales\\it\\translation.json",
+              "RelativeToolTip": "stackit.client\\public\\locales\\it\\translation.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T07:07:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Models\\Goal.cs",
+              "RelativeDocumentMoniker": "StackIt.Server\\Models\\Goal.cs",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Models\\Goal.cs",
+              "RelativeToolTip": "StackIt.Server\\Models\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:47:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoalProgress.tsx",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\components\\GoalProgress.tsx",
+              "RelativeDocumentMoniker": "stackit.client\\src\\components\\GoalProgress.tsx",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\stackit.client\\src\\components\\GoalProgress.tsx",
+              "RelativeToolTip": "stackit.client\\src\\components\\GoalProgress.tsx",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-28T07:06:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonthlyBalances.json",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Data\\MonthlyBalances.json",
+              "RelativeDocumentMoniker": "StackIt.Server\\Data\\MonthlyBalances.json",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Data\\MonthlyBalances.json",
+              "RelativeToolTip": "StackIt.Server\\Data\\MonthlyBalances.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T11:39:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonthlyBalance.cs",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Models\\MonthlyBalance.cs",
+              "RelativeDocumentMoniker": "StackIt.Server\\Models\\MonthlyBalance.cs",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Models\\MonthlyBalance.cs",
+              "RelativeToolTip": "StackIt.Server\\Models\\MonthlyBalance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:46:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JsonManager.cs",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Helpers\\JsonManager.cs",
+              "RelativeDocumentMoniker": "StackIt.Server\\Helpers\\JsonManager.cs",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Helpers\\JsonManager.cs",
+              "RelativeToolTip": "StackIt.Server\\Helpers\\JsonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:09:46.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Grafica.txt",
+              "DocumentMoniker": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Grafica.txt",
+              "RelativeDocumentMoniker": "StackIt.Server\\Grafica.txt",
+              "ToolTip": "C:\\Users\\ITFOLLONIRI\\source\\repos\\StackIt\\StackIt.Server\\Grafica.txt",
+              "RelativeToolTip": "StackIt.Server\\Grafica.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T06:49:22.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

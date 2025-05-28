@@ -1,0 +1,6 @@
+@StackIt.Server_HostAddress = http://localhost:5230
+
+GET {{StackIt.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

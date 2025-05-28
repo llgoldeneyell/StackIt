@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StackIt.Server.props" />
+</Project>

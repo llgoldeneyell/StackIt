@@ -1,0 +1,25 @@
+﻿{
+    "savingGoals": "Obiettivi di Risparmio",
+    "addGoal": "Aggiungi Obiettivo",
+    "goalName": "Nome Obiettivo",
+    "goalAmount": "Valore Obiettivo (€)",
+    "goalDueDate": "Scadenza (mese e anno)",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "by": "per",
+    "goalProgress": "Avanzamento Obiettivi",
+    "missing": "Mancano",
+    "surplus": "In eccesso",
+
+    "monthlyBalance": "Saldo mensile",
+    "addBalance": "Aggiungi saldo",
+    "month": "Mese",
+    "balance": "Saldo",
+    "actions": "Azioni",
+    "delete": "Elimina",
+    "confirmDelete": "Sei sicuro di voler eliminare questo saldo?",
+    "errorDeleting": "Errore nell'eliminazione",
+    "addMonthlyBalance": "Aggiungi saldo mensile"
+}

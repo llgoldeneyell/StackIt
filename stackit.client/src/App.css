@@ -1,0 +1,24 @@
+﻿/*#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}*/
+
+/* Aggiungi un po' di margine ai contenuti per evitare che siano troppo vicini ai bordi */
+.container-fluid {
+    height: calc(100vh - 56px); /* Riduci l'altezza per tenere conto della navbar */
+    padding-top: 20px; /* Aggiungi margine per distanziare dal top */
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.saving-goals-wrapper {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 6px; /* opzionale, per angoli arrotondati */
+}

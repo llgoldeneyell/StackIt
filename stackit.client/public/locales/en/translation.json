@@ -1,0 +1,26 @@
+﻿{
+    "savingGoals": "Saving Goals",
+    "addGoal": "Add Goal",
+    "goalName": "Goal Name",
+    "goalAmount": "Goal Amount (€)",
+    "goalDueDate": "Due Date (month and year)",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "june2025": "June 2025",
+    "by": "by",
+    "goalProgress": "Goal Progress",
+    "missing": "Missing",
+    "surplus": "Surplus",
+
+    "monthlyBalance": "Monthly Balance",
+    "addBalance": "Add Balance",
+    "month": "Month",
+    "balance": "Balance",
+    "actions": "Actions",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this balance?",
+    "errorDeleting": "Error deleting balance",
+    "addMonthlyBalance": "Add Monthly Balance"
+}
