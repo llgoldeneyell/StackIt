@@ -1,4 +1,4 @@
-
+﻿
 namespace StackIt.Server
 {
     public class Program
@@ -22,9 +22,8 @@ namespace StackIt.Server
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+                app.UseHttpsRedirection();
             }
-
-            app.UseHttpsRedirection();
 
             app.UseAuthorization();
 
